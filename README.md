@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I am Sand, Sand is me <3 
+I am Sand, Sand is me <3 
 <!--
 **sandpand/sandpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
